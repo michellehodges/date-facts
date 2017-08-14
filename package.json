@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  },
+  "name": "date-facts",
+  "version": "1.0.0",
+  "main": "date-facts.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
